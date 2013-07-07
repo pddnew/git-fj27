@@ -13,10 +13,15 @@
 		This is MVC (Model View Controller) in action.
 	</p>
 	<p>
-		Simple values can be rendered as so i.e. here's the value from the controller:<blockquote>${hello}</blockquote>
-	</p>
+		Simple values can be rendered as so i.e. here's the value from the controller:<blockquote>${hello}</blockquote>	
 	<p>
 		<a href="person/Mary">Mary</a>
+	</p>
+	
+	<p>
+		Notice: This application were done using the tutorial in the URL:
+		<br/> http://outbottle.com/spring-3-web-mvc-friendly-url-using-requestmapping-variable-uri/
+		<br/> Last visited: July 07 2013.
 	</p>
 </body>
 </html>

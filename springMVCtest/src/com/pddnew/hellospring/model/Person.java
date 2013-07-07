@@ -1,5 +1,12 @@
 package com.pddnew.hellospring.model;
 
+/**
+ * <p>
+		Notice: This application were done using the tutorial in the URL:
+		<br/> http://outbottle.com/spring-3-web-mvc-friendly-url-using-requestmapping-variable-uri/
+		<br/> Last visited: July 07 2013.
+	</p>
+ * */
 public class Person {
 
 	private String name;
